@@ -58,10 +58,10 @@
     },
 
     "clock": {
-        "timezone": "Europe/Amsterdam",
+        "timezone": "Europe/Europe",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         //* "format-alt": " {:%d/%m/%Y}",
-        "format": "󰅐  {:%H:%M:%S}"
+        "format": "󰅐  {:%H:%M}"
     },
     "backlight": {
         "device": "intel_backlight",
